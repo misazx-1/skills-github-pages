@@ -2,5 +2,5 @@
 title: Welcome to my blog
 ---
 
-content
+content not available at the moment, please restart.
 
